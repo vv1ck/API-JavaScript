@@ -26,13 +26,13 @@ cd API-JavaScript
 <!--END_SECTION:waka-->
 <!--START_SECTION:waka-->
 ```
-npm
+npm install xhr2
 ```
 <!--END_SECTION:waka-->
-- Open the link in the browser:
+- and open:
 <!--START_SECTION:waka-->
 ```
-http://localhost:9003/email=Put email
+node api.js
 ```
 <!--END_SECTION:waka-->
 --------------------
