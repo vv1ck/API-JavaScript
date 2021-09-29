@@ -35,6 +35,7 @@ npm install xhr2
 node api.js
 ```
 <!--END_SECTION:waka-->
+- Don't forget to put your email in the source
 --------------------
 By JOKER | <a class="" href="https://www.snapchat.com/add/jokermr5oos4800?">Snapchat 👻</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a>
 -
