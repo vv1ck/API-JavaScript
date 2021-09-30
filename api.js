@@ -1,5 +1,5 @@
 var email = 'joker@yahoo.com'; //enter email
-//download this library >> npm install xhr2
+//download  this library >> npm install xhr2
 var XMLHttpRequest = require('xhr2');
 var send = new XMLHttpRequest();
 send.onreadystatechange = function() {
